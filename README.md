@@ -32,6 +32,9 @@ python inference_first_stage.py --city melbourne
 python preprocess_extended_lgb.py --city london
 python preprocess_extended_lgb.py --city madrid
 python preprocess_extended_lgb.py --city melbourne
+python preprocess_extended_lgb_v2.py --city london
+python preprocess_extended_lgb_v2.py --city madrid
+python preprocess_extended_lgb_v2.py --city melbourne
 python inference_extended_lgb.py --city london
 python inference_extended_lgb.py --city madrid
 python inference_extended_lgb.py --city melbourne
